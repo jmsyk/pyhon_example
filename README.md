@@ -1,2 +1,2 @@
-# test1
-description1
+# example of webscraper
+gathers today's weahehr data from metoffice website for B24

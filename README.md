@@ -1,2 +1,2 @@
 # example of webscraper
-gathers today's weahehr data from metoffice website for B24
+Gathers today's weather data from Met Office website for B2
